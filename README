@@ -1,0 +1,24 @@
+# Retail Sales & Profitability Analysis
+
+## Business Problem
+The retail business lacked clarity on sales performance, product profitability, and revenue trends.
+This project analyzes retail transaction data to identify revenue drivers, profit gaps, and key sales patterns to support better business decisions.
+
+## Tools Used
+- Python (pandas, NumPy)
+- SQL (MySQL)
+- Power BI
+
+## Key Tasks Performed
+- Cleaned and preprocessed retail sales data using Python.
+- Answered 18+ business-driven questions using SQL involving aggregations, CASE statements, and grouping.
+- Built a one-page Power BI dashboard to visualize KPIs, sales trends, and product performance.
+
+## Project Assets
+- Project Report (PDF): included in repository
+- Python Script: included in repository
+- SQL Queries: included in repository
+- Power BI Dashboard: included in repository
+
+## Outcome
+The analysis highlighted high-performing products, profit-driving categories, and loss-making areas, enabling actionable insights for improving profitability and sales strategy.
